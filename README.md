@@ -1,5 +1,5 @@
 # ITE-005
-Códigos desenvolvidos na aula de Programação Funcional/Haskell da Fatec Rubens Lara.
+Projetos desenvolvidos utilizando a linguagem Haskell para a matéria "Tópicos Especiais de Sistemas para Internet III" da FATEC Rubens Lara.
 
 ## Ementa 
 * Introdução a linguagem Haskell.   
